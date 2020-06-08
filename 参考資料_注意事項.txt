@@ -1,0 +1,15 @@
+参考資料
+https://www.pro-s.co.jp/blog/system/opencv/6397
+
+https://blog.aidemy.net/entry/2018/05/21/210100
+
+https://github.com/shkh/TrainingAssistant
+
+
+
+staticの中にpos_imgを保存するimgファイル作成が必要
+
+
+
+ベクトルファイル確認
+.\opencv_createsamples.exe -vec ./vec/ooo.vec -show
