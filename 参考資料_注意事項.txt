@@ -13,3 +13,12 @@ staticの中にpos_imgを保存するimgファイル作成が必要
 
 ベクトルファイル確認
 .\opencv_createsamples.exe -vec ./vec/ooo.vec -show
+
+
+
+アノテーション前注意
+pip install -r freezed.txt
+
+pip uninstall -r freezed.txt
+
+pip intall flask
